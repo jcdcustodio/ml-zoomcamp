@@ -12,3 +12,6 @@ wheels/
 # Jupyter
 .ipynb_checkpoints
 .virtual_documents
+
+# Raw data
+homeworks/data
