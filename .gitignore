@@ -15,3 +15,6 @@ wheels/
 
 # Raw data
 homeworks/data
+
+# Lint settings
+ruff.toml
