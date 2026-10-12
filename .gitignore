@@ -14,7 +14,14 @@ wheels/
 .virtual_documents
 
 # Raw data
+datasets
 homeworks/data
 
 # Lint settings
 ruff.toml
+
+# Folders
+.complete
+
+# Files
+data_utils.py
