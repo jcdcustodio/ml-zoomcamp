@@ -1,0 +1,3 @@
+uv venv --prompt "mlzc2026-hw5" --managed-python --python 3.11.15 --cache-dir "/mnt/d/uv/cache" --project .
+
+uv sync --managed-python --cache-dir "/mnt/d/uv/cache"
